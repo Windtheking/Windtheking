@@ -4,7 +4,7 @@
 _________
 
 <h1 align = center>
-Welcome coders....
+    <img src="./img/welcoming img.png" style="height:40%">
 </h1>
 <div>
 
