@@ -25,24 +25,31 @@ I'm a Software Developer from Riwi, looking to colaborate on future fullstack pr
 </p>
 </div>
 <h3 align="center">📊 Github Stats 📊 </h3>
-
-<div align="center">
-   
+<div align='center' style="display: flex;
+justify-content: center;
+align-items: center">
+    <div>
+        <img style="width: 20rem;"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+            alt="davin-coder">
+    </div>
+    <div>
+    <img style="width: 20rem;"
+            src="https://github-readme-stats.vercel.app/api?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+            alt="davin-coder">
+    <img style="width: 20rem;"
+        src="https://nirzak-streak-stats.vercel.app/?user=davin-coder&theme=tokyonight&hide_border=true"
+        alt="davin-coder">
+    </div>
 </div>
 
 <div align='center' style="display: flex;
 flex-direction: column
 justify-content: center;
 align-items: center">
-     <img style="width: 10rem;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-        alt="davin-coder">
-    <img style="width: 15rem;"
-        src="https://github-readme-stats.vercel.app/api?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
-        alt="davin-coder">
-    <img style="width: 15rem;"
-        src="https://nirzak-streak-stats.vercel.app/?user=davin-coder&theme=tokyonight&hide_border=true"
-        alt="davin-coder">
+
+
+
 </div>
 <h3 align='center'>🛠️ My Development Tool Kit</h3>
 <p align = center> 
