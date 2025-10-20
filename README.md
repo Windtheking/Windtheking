@@ -7,9 +7,9 @@ Welcome coders....
 </h1>
 <div>
 
-<table style="border-collapse: collapse">
-    <tr>
-        <td>
+<table style="border: 0">
+    <tr style ="border:none" >
+        <td style ="border:none">
             <p >
             The name is Santiago Mendoza, AKA Wind, a backend developer open to many new challenges and every day learning new secrets about code
             </p>
