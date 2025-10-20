@@ -7,7 +7,7 @@ Welcome coders....
 </h1>
 <div>
 
-<table style="border: none">
+<table style="border-collapse: collapse">
     <tr>
         <td>
             <p >
