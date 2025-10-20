@@ -1,3 +1,4 @@
+<div style="backgroundimage: url(./img/corrected.jpg)">
 <img style = "width: 150%" src = "https://static.wikia.nocookie.net/arkhamcity/images/8/8f/Hacking_device.gif/revision/latest?cb=20230319061521">
 
 _________
@@ -14,7 +15,7 @@ Welcome coders....
             The name is Santiago Mendoza, AKA Wind, a backend developer open to many new challenges and every day learning new secrets about code
             </p>
         </td>
-        <td>
+        <td style ="border:none">
             <p>
             I'm a Software Developer from Riwi, looking to colaborate on future fullstack projects, I'm on the works of new technologies about the backend world. 
             </p>
@@ -69,3 +70,4 @@ Welcome coders....
     <a href="https://github.com/Davin-coder" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="instagram logo"  /></a>&nbsp;&nbsp;
 </p>
+</div>
