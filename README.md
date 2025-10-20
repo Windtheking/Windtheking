@@ -1,10 +1,25 @@
-<div style="backgroundimage: url(./img/corrected.jpg)">
 <img style = "width: 150%" src = "https://static.wikia.nocookie.net/arkhamcity/images/8/8f/Hacking_device.gif/revision/latest?cb=20230319061521">
+
+___________
+
+<p>
+
+<pre>
+⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛ 10%
+⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 20%
+⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40%
+⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 60%
+⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛ 80%
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
+✅ Content fully loaded
+</pre>
+
+</p>
 
 _________
 
 <h1 align = center>
-    <img src="./img/welcoming img.png" style="height:40%">
+    <img src="./img/welcoming img.png" style="height:20%, widht: 40%">
 </h1>
 <div>
 
