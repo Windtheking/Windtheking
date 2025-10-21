@@ -29,7 +29,7 @@ I'm a Software Developer from Riwi, looking to colaborate on future fullstack pr
 justify-content: center;
 align-items: center">
     <div>
-        <img style="width: 100%;"
+        <img style="width: 20rem;"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
             alt="davin-coder">
     </div>
