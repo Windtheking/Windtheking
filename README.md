@@ -29,7 +29,7 @@ I'm a Software Developer from Riwi, looking to colaborate on future fullstack pr
 justify-content: center;
 align-items: center">
     <div>
-        <img style="width: 20rem;"
+        <img style="width: 100%;"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
             alt="davin-coder">
     </div>
@@ -38,7 +38,7 @@ align-items: center">
             src="https://github-readme-stats.vercel.app/api?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
             alt="davin-coder">
     <img style="width: 20rem;"
-        src="https://nirzak-streak-stats.vercel.app/?user=davin-coder&theme=tokyonight&hide_border=true"
+        src="https://nirzak-streak-stats.vercel.app/?user=Windtheking&theme=tokyonight&hide_border=true"
         alt="davin-coder">
     </div>
 </div>
@@ -52,16 +52,37 @@ align-items: center">
 
 </div>
 <h3 align='center'>🛠️ My Development Tool Kit</h3>
-<p align = center> 
-    <h3>Some of the most used tools on my latest studies are:
-</p>
+
 <p align='center'>
     <div align = center>
-        <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+        <h4>Version control
+        <br>
+        <a href="https://git-scm.com/" target="_blank"><img
+                src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;&nbsp;
+        <a href="https://github.com/davin-coder" target="_blank"><img
+                src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+    </div>
+    <div align = center>
+        <h4>Enviroments
+        <br>
         <img src ="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
+    </div>
+    <div align = center>
+        <h4>DBM's
+        <br>
+        <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+        <img
+        src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=">&nbsp;&nbsp;
+        <a href<img
+        src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>&nbsp;&nbsp;
+        <<img
+        src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>&nbsp;&nbsp;
     </div>
     <br>
     <div align = center>
+        <h4>Backend tools
+        <br>
         <img src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
         <img src ="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
         <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
@@ -70,6 +91,8 @@ align-items: center">
     </div>
     <br>
     <div align = center>
+        <h4>IDE's
+        <br>
         <img src ="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
         <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     </div>
@@ -79,6 +102,8 @@ align-items: center">
     </div>
     <br>
     <div align = center>
+        <h4>OS
+        <br>
         <img src = "https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
     </div>
 </p>
