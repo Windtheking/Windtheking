@@ -76,7 +76,7 @@ align-items: center">
         src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=">&nbsp;&nbsp;
         <a href<img
         src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>&nbsp;&nbsp;
-        <<img
+        <img
         src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>&nbsp;&nbsp;
     </div>
     <br>
