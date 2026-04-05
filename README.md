@@ -29,17 +29,12 @@ I'm a Software Developer from Riwi, looking to colaborate on future fullstack pr
 justify-content: center;
 align-items: center">
     <div>
-        <img style="width: 20rem;"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-            alt="davin-coder">
+        <img src="[https://your-deployment.vercel.app/api/account-general?theme=dark&icon=default+github](https://github-stats-animator.vercel.app/api/account-general?theme=dark&icon=user&slot1=stars&slot2=commits_total&slot3=commits_current_year&slot4=pull_requests&slot5=issues)" alt="Windtheking Stats" />
     </div>
     <div>
     <img style="width: 20rem;"
-            src="https://github-readme-stats.vercel.app/api?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
-            alt="davin-coder">
-    <img style="width: 20rem;"
-        src="https://nirzak-streak-stats.vercel.app/?user=Windtheking&theme=tokyonight&hide_border=true"
-        alt="davin-coder">
+            src="[https://github-readme-stats.vercel.app/api?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false]                   (https://github-stats-animator.vercel.app/api/top-languages?theme=dark&languages_count=4&decimal_places=3&width=501&height=260)"
+            alt="Windtheking languages stats">
     </div>
 </div>
 
