@@ -21,31 +21,10 @@ ___________
 The name is Santiago Mendoza, AKA Wind, a backend developer open to many new challenges and every day learning new secrets about code
 </p>
 <p>
-I'm a Software Developer from Riwi, looking to colaborate on future fullstack projects, I'm on the works of new technologies about the backend world. 
+I'm a Software Developer from Riwi, looking to colaborate on future fullstack projects. My current favorite API construction framework is springboot and fastapi
 </p>
 </div>
-<h3 align="center">📊 Github Stats 📊 </h3>
-<div align='center' style="display: flex;
-justify-content: center;
-align-items: center">
-    <div>
-        <img src="[https://your-deployment.vercel.app/api/account-general?theme=dark&icon=default+github](https://github-stats-animator.vercel.app/api/account-general?theme=dark&icon=user&slot1=stars&slot2=commits_total&slot3=commits_current_year&slot4=pull_requests&slot5=issues)" alt="Windtheking Stats" />
-    </div>
-    <div>
-    <img style="width: 20rem;"
-            src="[https://github-readme-stats.vercel.app/api?username=Windtheking&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false]                   (https://github-stats-animator.vercel.app/api/top-languages?theme=dark&languages_count=4&decimal_places=3&width=501&height=260)"
-            alt="Windtheking languages stats">
-    </div>
-</div>
 
-<div align='center' style="display: flex;
-flex-direction: column
-justify-content: center;
-align-items: center">
-
-
-
-</div>
 <h3 align='center'>🛠️ My Development Tool Kit</h3>
 
 <p align='center'>
